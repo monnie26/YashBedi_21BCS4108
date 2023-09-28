@@ -1,4 +1,4 @@
-# YashBedi_21BCS4108
+# WebWizadry Hackathon
 
 #Team Name: TechTitans 
 #Team Leader: Yash Bedi - 21BCS4108 
